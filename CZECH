@@ -77,12 +77,12 @@ Settings = Možnost
 Audio = Zvuk
 AudioDesc = Úprava nastavení zvuku
 Graphics = Grafika
-GraphicsDesc = Změna grafické možnosti
+GraphicsDesc = Změna Grafické Možnosti
 System = Systém
-SystemDesc = Zpnout Dynarec (JIT), Fast memory
+SystemDesc = Zapnout Dynarec (JIT), Fast memory
 Controls = Ovládání
 ControlsDesc = Ovládací prvky na obrazovce, velké knoflíky
-Developer = Developer
+Developer = Developery
 DeveloperDesc = Spustit CPU test Výpis další snímek log atd.
 [Developer]
 Developer Tools = Nástroje pro vývojáře
